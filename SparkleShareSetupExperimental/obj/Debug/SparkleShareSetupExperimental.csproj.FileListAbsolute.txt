@@ -8,3 +8,9 @@ C:\Users\kostas\Documents\Visual Studio 2008\Projects\SparkleShareSetupExperimen
 C:\Users\kostas\Documents\Visual Studio 2008\Projects\SparkleShareSetupExperimental\SparkleShareSetupExperimental\obj\Debug\SparkleShareSetupExperimental.pdb
 C:\Users\kostas\Projects\SparkleShareSetupExperimental\SparkleShareSetupExperimental\obj\Debug\SparkleShareSetupExperimental.exe
 C:\Users\kostas\Projects\SparkleShareSetupExperimental\SparkleShareSetupExperimental\obj\Debug\SparkleShareSetupExperimental.pdb
+C:\Users\kostas\Projects\SparkleShareSetupExperimental\SparkleShareSetupExperimental\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kostas\Projects\SparkleShareSetupExperimental\SparkleShareSetupExperimental\obj\Debug\SparkleShareSetupExperimental.Form1.resources
+C:\Users\kostas\Projects\SparkleShareSetupExperimental\SparkleShareSetupExperimental\obj\Debug\SparkleShareSetupExperimental.Properties.Resources.resources
+C:\Users\kostas\Projects\SparkleShareSetupExperimental\SparkleShareSetupExperimental\obj\Debug\SparkleShareSetupExperimental.csproj.GenerateResource.Cache
+C:\Users\kostas\Projects\SparkleShareSetupExperimental\SparkleShareSetupExperimental\bin\Debug\SparkleShareSetupExperimental.exe
+C:\Users\kostas\Projects\SparkleShareSetupExperimental\SparkleShareSetupExperimental\bin\Debug\SparkleShareSetupExperimental.pdb
