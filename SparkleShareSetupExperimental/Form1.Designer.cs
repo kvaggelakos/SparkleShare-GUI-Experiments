@@ -29,17 +29,17 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container ();
-            TreeNode treeNode1 = new TreeNode ("Node 1", "additional info");
-            TreeNode treeNode2 = new TreeNode ("Node 2", "additional info");
-            TreeNode treeNode3 = new TreeNode ("Node 3", "additional info");
-            TreeNode treeNode4 = new TreeNode ("Node 4", "additional info");
-            TreeNode treeNode5 = new TreeNode ("Node 5", "additional info");
-            TreeNode treeNode6 = new TreeNode ("Node 6", "additional info");
-            TreeNode treeNode7 = new TreeNode ("Node 7", "additional info");
-            TreeNode treeNode8 = new TreeNode ("Node 8", "additional info");
-            TreeNode treeNode9 = new TreeNode ("Node 9", "additional info");
-            TreeNode treeNode10 = new TreeNode ("Node 10", "additional info");
-            TreeNode treeNode11 = new TreeNode ("Node 11", "additional info");
+            TreeNode treeNode1 = new TreeNode ("Node 1;additional info");
+            TreeNode treeNode2 = new TreeNode ("Node 2;additional info");
+            TreeNode treeNode3 = new TreeNode ("Node 3;additional info");
+            TreeNode treeNode4 = new TreeNode ("Node 4;additional info");
+            TreeNode treeNode5 = new TreeNode ("Node 5;additional info");
+            TreeNode treeNode6 = new TreeNode ("Node 6;additional info");
+            TreeNode treeNode7 = new TreeNode ("Node 7;additional info");
+            TreeNode treeNode8 = new TreeNode ("Node 8;additional info");
+            TreeNode treeNode9 = new TreeNode ("Node 9;additional info");
+            TreeNode treeNode10 = new TreeNode ("Node 10;additional info");
+            TreeNode treeNode11 = new TreeNode ("Node 11;additional info");
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager (typeof (Form1));
             this.treeView1 = new TreeView ();
             this.imageList1 = new System.Windows.Forms.ImageList (this.components);
