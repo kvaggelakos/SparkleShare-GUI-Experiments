@@ -4,7 +4,3 @@ obj
 
 # mstest test results
 TestResults
-
-# sln and suo
-*.sln
-*.suo
